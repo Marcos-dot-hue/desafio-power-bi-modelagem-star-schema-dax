@@ -77,7 +77,7 @@ Além da modelagem solicitada, foram desenvolvidas medidas para validar o modelo
 
 ```DAX
 Total Vendas =
-SUM('F_Vendas'[Sales])
+SUM('F_Vendas'[Valor Vendas]
 
 Lucro Total =
 SUM('F_Vendas'[Profit])
